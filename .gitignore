@@ -7,3 +7,10 @@ dataset/*.gz
 
 # 处理后的 MNIST 缓存
 dataset/mnist.pkl
+
+# =====================
+# Dataset / __pycache__
+# =====================
+
+# python缓存
+dataset/__pycache__

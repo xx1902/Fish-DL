@@ -1,0 +1,9 @@
+# =====================
+# Dataset / MNIST files
+# =====================
+
+# 原始 MNIST 数据
+dataset/*.gz
+
+# 处理后的 MNIST 缓存
+dataset/mnist.pkl
